@@ -1,5 +1,5 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
+title: a Default Article
 subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
@@ -30,15 +30,15 @@ image:
 
 authors:
 - admin
-- 吳恩達
+- 我是加藤太朗
 
 tags:
 - Academic
-- 开源
+- 练习
 
 categories:
 - Demo
-- 教程
+- カテゴリー
 ---
 
 ## Overview
