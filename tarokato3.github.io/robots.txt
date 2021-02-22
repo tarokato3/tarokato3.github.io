@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://tarokato3.github.io/sitemap.xml
