@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taro KATO</title>
+    <link>https://tarokato3.github.io/</link>
+      <atom:link href="https://tarokato3.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Taro KATO</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Taro KATO 2021</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tarokato3.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Taro KATO</title>
+      <link>https://tarokato3.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://tarokato3.github.io/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://tarokato3.github.io/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Atomistic simulation study of impacts of surface carrier scatterings on carrier transport in Pt nanosheets</title>
+      <link>https://tarokato3.github.io/publication/tanaka2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://tarokato3.github.io/publication/tanaka2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schematic of the DOS at Au-S interface</title>
+      <link>https://tarokato3.github.io/project/kato2021/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://tarokato3.github.io/project/kato2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temperature dependence of resistivity increases induced by thiols adsorption in gold nanosheets</title>
+      <link>https://tarokato3.github.io/publication/kato2021/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://tarokato3.github.io/publication/kato2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metal nanosheet gas sensors</title>
+      <link>https://tarokato3.github.io/post/integrated_metal_nanosheet_gas_sensor/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://tarokato3.github.io/post/integrated_metal_nanosheet_gas_sensor/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;It is known that resistance in nanostructured metals (such as metal nanosheets) changes when molecules chemisorb. By utilizing that phenomena, our research group has been developing &amp;ldquo;Metal nanosheet gas sensors&amp;rdquo;.&lt;br&gt;
+Metal nanosheets have many advantages for sensor application over other materials such as metal semiconductor oxides and polymers.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Sensor size is small &lt;strong&gt;(&amp;lt; 0.01 cm&lt;sup&gt;2&lt;/sup&gt;)&lt;/strong&gt;, so easy to integrate.&lt;/li&gt;
+&lt;li&gt;Reduction of power consumption is possible &lt;strong&gt;(&amp;lt; 0.1 mW)&lt;/strong&gt; by utilizing self-heating effect &lt;a href=&#34;https://ieeexplore.ieee.org/document/8887245&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(see this paper as an example)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Highly sensitive because of the catalysis.&lt;/li&gt;
+&lt;li&gt;Highly stable if choose noble metals as materials.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We have already realized the multimolecule detection of hydrogen (H&lt;sub&gt;2&lt;/sub&gt;) and ammonia (NH&lt;sub&gt;3&lt;/sub&gt;) by integration of Pt and PtRh nanosheet sensors with a power consumption of less than 1 mW &lt;a href=&#34;https://ieeexplore.ieee.org/document/8887245&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(See ref)&lt;/a&gt;.&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./test.png&#34; alt=&#34;Example image&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The goal of this research is that we realize metal nanosheets sensor systems which can accurately measure  five or more types of low molecules in air or in breath.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In situ AP-XPS analysis of a Pt thin-film sensor for highly sensitive H2 detection</title>
+      <link>https://tarokato3.github.io/publication/toyoshima2020/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://tarokato3.github.io/publication/toyoshima2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction of the research in our group (Japanese video)</title>
+      <link>https://tarokato3.github.io/post/about_our_group/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tarokato3.github.io/post/about_our_group/</guid>
+      <description>&lt;h2 id=&#34;introduction-movies&#34;&gt;&lt;strong&gt;Introduction movies&lt;/strong&gt;&lt;/h2&gt;
+&lt;br&gt;
+&lt;!-- If your video link is:
+https://www.youtube.com/watch?v=w7Ft2ymGmfc
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/w7Ft2ymGmfc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+ --&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/wO_eDt4Gqg0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Project</title>
+      <link>https://tarokato3.github.io/project/tanaka2021/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://tarokato3.github.io/project/tanaka2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tarokato3.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tarokato3.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

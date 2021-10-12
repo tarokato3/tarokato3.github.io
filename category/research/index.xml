@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Taro KATO</title>
+    <link>https://tarokato3.github.io/category/research/</link>
+      <atom:link href="https://tarokato3.github.io/category/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Taro KATO 2021</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tarokato3.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Research</title>
+      <link>https://tarokato3.github.io/category/research/</link>
+    </image>
+    
+    <item>
+      <title>Metal nanosheet gas sensors</title>
+      <link>https://tarokato3.github.io/post/integrated_metal_nanosheet_gas_sensor/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://tarokato3.github.io/post/integrated_metal_nanosheet_gas_sensor/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;It is known that resistance in nanostructured metals (such as metal nanosheets) changes when molecules chemisorb. By utilizing that phenomena, our research group has been developing &amp;ldquo;Metal nanosheet gas sensors&amp;rdquo;.&lt;br&gt;
+Metal nanosheets have many advantages for sensor application over other materials such as metal semiconductor oxides and polymers.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Sensor size is small &lt;strong&gt;(&amp;lt; 0.01 cm&lt;sup&gt;2&lt;/sup&gt;)&lt;/strong&gt;, so easy to integrate.&lt;/li&gt;
+&lt;li&gt;Reduction of power consumption is possible &lt;strong&gt;(&amp;lt; 0.1 mW)&lt;/strong&gt; by utilizing self-heating effect &lt;a href=&#34;https://ieeexplore.ieee.org/document/8887245&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(see this paper as an example)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Highly sensitive because of the catalysis.&lt;/li&gt;
+&lt;li&gt;Highly stable if choose noble metals as materials.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We have already realized the multimolecule detection of hydrogen (H&lt;sub&gt;2&lt;/sub&gt;) and ammonia (NH&lt;sub&gt;3&lt;/sub&gt;) by integration of Pt and PtRh nanosheet sensors with a power consumption of less than 1 mW &lt;a href=&#34;https://ieeexplore.ieee.org/document/8887245&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(See ref)&lt;/a&gt;.&lt;br&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./test.png&#34; alt=&#34;Example image&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The goal of this research is that we realize metal nanosheets sensor systems which can accurately measure  five or more types of low molecules in air or in breath.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction of the research in our group (Japanese video)</title>
+      <link>https://tarokato3.github.io/post/about_our_group/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://tarokato3.github.io/post/about_our_group/</guid>
+      <description>&lt;h2 id=&#34;introduction-movies&#34;&gt;&lt;strong&gt;Introduction movies&lt;/strong&gt;&lt;/h2&gt;
+&lt;br&gt;
+&lt;!-- If your video link is:
+https://www.youtube.com/watch?v=w7Ft2ymGmfc
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/w7Ft2ymGmfc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+ --&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/wO_eDt4Gqg0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
