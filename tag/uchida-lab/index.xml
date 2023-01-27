@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uchida Lab | Taro KATO</title>
+    <link>https://tarokato3.github.io/tag/uchida-lab/</link>
+      <atom:link href="https://tarokato3.github.io/tag/uchida-lab/index.xml" rel="self" type="application/rss+xml" />
+    <description>Uchida Lab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Taro KATO 2021</copyright><lastBuildDate>Fri, 27 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tarokato3.github.io/media/icon_hu567e04d1e5eda682c4c1f16d3f10ae0c_11349_512x512_fill_lanczos_center_3.png</url>
+      <title>Uchida Lab</title>
+      <link>https://tarokato3.github.io/tag/uchida-lab/</link>
+    </image>
+    
+    <item>
+      <title>Research Video about Integrated Gas Sensor</title>
+      <link>https://tarokato3.github.io/post/about_our_group_gas_sensor/</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tarokato3.github.io/post/about_our_group_gas_sensor/</guid>
+      <description>&lt;h2 id=&#34;introduction-movies&#34;&gt;&lt;strong&gt;Introduction movies&lt;/strong&gt;&lt;/h2&gt;
+&lt;br&gt;
+&lt;!-- If your video link is:
+https://www.youtube.com/watch?v=w7Ft2ymGmfc
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/w7Ft2ymGmfc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+ --&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/XCgYmdcYniw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
